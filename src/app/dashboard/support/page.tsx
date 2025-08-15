@@ -212,7 +212,7 @@ export default function Support() {
                 Create Support Ticket
               </CardTitle>
               <CardDescription>
-                Describe your issue and we'll help you resolve it
+                Describe your issue and we&apos;ll help you resolve it
               </CardDescription>
             </CardHeader>
             <CardContent>

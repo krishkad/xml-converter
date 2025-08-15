@@ -79,7 +79,7 @@ const FAQSection = () => {
               Still have questions?
             </h3>
             <p className="text-muted-foreground mb-6">
-              Our legal document experts are here to help. Get in touch and we'll respond within 24 hours.
+              Our legal document experts are here to help. Get in touch and we&apos;ll respond within 24 hours.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 

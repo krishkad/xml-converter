@@ -128,7 +128,7 @@ export default function Subscription() {
             <div className="flex items-center gap-2 p-3 bg-yellow-50 border border-yellow-200 rounded-lg">
               <AlertCircle className="h-4 w-4 text-yellow-600" />
               <p className="text-sm text-yellow-800">
-                You're running low on conversions. Upgrade to Pro for unlimited access.
+                You&apos;re running low on conversions. Upgrade to Pro for unlimited access.
               </p>
             </div>
           </CardContent>

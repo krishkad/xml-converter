@@ -69,7 +69,7 @@ const ContactSection = () => {
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Our team of legal document experts is here to help you succeed. 
-            Reach out and we'll get back to you quickly.
+            Reach out and we&apos;ll get back to you quickly.
           </p>
         </div>
 
@@ -82,7 +82,7 @@ const ContactSection = () => {
                 Send us a message
               </CardTitle>
               <p className="text-muted-foreground">
-                Tell us about your document conversion needs and we'll help you find the best solution.
+                Tell us about your document conversion needs and we&apos;ll help you find the best solution.
               </p>
             </CardHeader>
             <CardContent>
